@@ -1,0 +1,4 @@
+setx VT_API_KEY "API_KEY"
+setx MB_API_KEY "API_KEY"
+setx HA_API_KEY "API_KEY"
+setx OTX_API_KEY "API_KEY"
